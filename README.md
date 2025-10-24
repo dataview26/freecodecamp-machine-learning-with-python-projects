@@ -60,12 +60,16 @@ This collection of projects is part of the
 FreeCodeCamp Machine Learning with Python Certification
 
 📂 freecodecamp-machine-learning-projects/
-│
-├── rock-paper-scissors.ipynb
-├── cat-dog-classifier.ipynb
-├── book-recommender.ipynb
-├── health-costs.ipynb
-└── sms-classifier.ipynb
+
+- rock-paper-scissors.ipynb
+
+- cat-dog-classifier.ipynb
+
+- book-recommender.ipynb
+
+- health-costs.ipynb
+
+- sms-classifier.ipynb
 
 ---
 
