@@ -59,7 +59,7 @@ End-to-end ML workflows in Google Colab
 This collection of projects is part of the
 FreeCodeCamp Machine Learning with Python Certification
 
-📂 freecodecamp-machine-learning-projects/
+📂 freecodecamp-machine-learning-projects
 
 - rock-paper-scissors.ipynb
 
