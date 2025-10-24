@@ -5,10 +5,8 @@ Each project demonstrates different machine learning techniques using Python, Go
 
 ---
 
-**This collection of projects is part of the
-FreeCodeCamp Machine Learning with Python Certification**
 
-📂 **freecodecamp-machine-learning-projects**
+📂 **Project Collection**
 
 🪨✂️📄 **Rock Paper Scissors**  
 A TensorFlow neural network trained to play Rock, Paper, Scissors against humans.<br><br>
