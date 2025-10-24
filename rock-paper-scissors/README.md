@@ -78,7 +78,7 @@ Screenshot-1-code
 
 Screenshot-2-code
 
-Screenshot-3-code&output
+Screenshot-3-code & output
 
 ---
 
