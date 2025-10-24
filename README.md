@@ -61,24 +61,17 @@ End-to-end ML workflows in Google Colab
 This collection of projects is part of the
 FreeCodeCamp Machine Learning with Python Certification
 
-📂 Repository Structure
-freecodecamp-machine-learning-projects/
+📂 freecodecamp-machine-learning-projects/
 │
-├── rock-paper-scissors/
-│   └── fcc_rock_paper_scissors.ipynb
-│
-├── cat-and-dog-classifier/
-│   └── fcc_cat_dog_image_classifier.ipynb
-│
-├── book-recommendation-engine-knn/
-│   └── fcc_book_recommendation_knn.ipynb
-│
-├── health-costs-regression/
-│   └── fcc_predict_health_costs_with_regression.ipynb
-│
-└── neural-network-sms-classifier/
-    └── fcc_sms_text_classifier.ipynb
-
+├── rock-paper-scissors.ipynb
+|
+├── cat-dog-classifier.ipynb
+|
+├── book-recommender.ipynb
+|
+├── health-costs.ipynb
+|
+└── sms-classifier.ipynb
 ---
 
 ✅ Results
