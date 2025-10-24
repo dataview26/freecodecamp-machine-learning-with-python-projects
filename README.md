@@ -10,52 +10,52 @@ FreeCodeCamp Machine Learning with Python Certification**
 
 📂 **freecodecamp-machine-learning-projects**
 
--🪨✂️📄 **Rock Paper Scissors**
+🪨✂️📄 **Rock Paper Scissors**
 A TensorFlow neural network trained to play Rock, Paper, Scissors against humans.
 
--🐶🐱 **Cat and Dog Image Classifier**
+🐶🐱 **Cat and Dog Image Classifier**
 A convolutional neural network (CNN) that classifies images of cats and dogs.
 
--📚 **Book Recommendation Engine using KNN**
+📚 **Book Recommendation Engine using KNN**
 A K-Nearest Neighbors model that recommends books based on reader ratings.
 
--💰 **Linear Regression Health Costs Calculator**
+💰 **Linear Regression Health Costs Calculator**
 A regression model that predicts healthcare expenses based on demographic data.
 
--💬 **Neural Network SMS Text Classifier**
+💬 **Neural Network SMS Text Classifier**
 A neural network that classifies SMS messages as spam or not spam.
 
 ---
 
 🧰 **Tools & Libraries**
 
-Python 3
+- Python 3
 
-Google Colab
+- Google Colab
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Matplotlib
+- Matplotlib
 
-Scikit-learn
+- Scikit-learn
 
-TensorFlow / Keras
+- TensorFlow / Keras
 
 ---
 
 📊 **Skills Demonstrated**
 
-Data preprocessing and feature engineering
+- Data preprocessing and feature engineering
 
-Regression and classification
+- Regression and classification
 
-Neural networks and CNNs
+- Neural networks and CNNs
 
-Model evaluation and visualization
+- Model evaluation and visualization
 
-End-to-end ML workflows in Google Colab
+- End-to-end ML workflows in Google Colab
 
 ---
 
