@@ -17,9 +17,17 @@ A TensorFlow neural network trained to play Rock, Paper, Scissors against humans
 
 
 
+
+
+
+
 🐶🐱 **Cat and Dog Image Classifier**  
 
 A convolutional neural network (CNN) that classifies images of cats and dogs.
+
+
+
+
 
 
 
@@ -31,9 +39,17 @@ A K-Nearest Neighbors model that recommends books based on reader ratings.
 
 
 
+
+
+
+
 💰 **Linear Regression Health Costs Calculator**
 
 A regression model that predicts healthcare expenses based on demographic data.
+
+
+
+
 
 
 
