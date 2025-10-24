@@ -79,7 +79,7 @@ Models tested and verified through FreeCodeCamp challenges
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certificate
 
 🎓 Machine Learning with Python (FreeCodeCamp)
 
