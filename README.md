@@ -3,6 +3,8 @@
 This repository contains all five projects completed for the FreeCodeCamp Machine Learning with Python Certification.
 Each project demonstrates different machine learning techniques using Python, Google Colab, Scikit-learn, and TensorFlow.
 
+---
+
 🏆 Certification Projects
 
 🪨✂️📄 Rock Paper Scissors
@@ -20,6 +22,8 @@ A regression model that predicts healthcare expenses based on demographic data.
 💬 Neural Network SMS Text Classifier
 A neural network that classifies SMS messages as spam or not spam.
 
+---
+
 🧰 Tools & Libraries
 
 Python 3
@@ -36,6 +40,8 @@ Scikit-learn
 
 TensorFlow / Keras
 
+---
+
 📊 Skills Demonstrated
 
 Data preprocessing and feature engineering
@@ -47,6 +53,8 @@ Neural networks and CNNs
 Model evaluation and visualization
 
 End-to-end ML workflows in Google Colab
+
+---
 
 📜 Certification
 
@@ -70,6 +78,8 @@ freecodecamp-machine-learning-projects/
 │
 └── neural-network-sms-classifier/
     └── fcc_sms_text_classifier.ipynb
+
+---
 
 ✅ Results
 
