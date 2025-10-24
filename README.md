@@ -1,30 +1,33 @@
-🧠 FreeCodeCamp Machine Learning with Python Projects
+🧠 **FreeCodeCamp Machine Learning with Python Projects**
 
 This repository contains all five projects completed for the FreeCodeCamp Machine Learning with Python Certification.
 Each project demonstrates different machine learning techniques using Python, Google Colab, Scikit-learn, and TensorFlow.
 
 ---
 
-🏆 Certification Projects
+**This collection of projects is part of the
+FreeCodeCamp Machine Learning with Python Certification**
 
-🪨✂️📄 Rock Paper Scissors
+📂 **freecodecamp-machine-learning-projects**
+
+-🪨✂️📄 **Rock Paper Scissors**
 A TensorFlow neural network trained to play Rock, Paper, Scissors against humans.
 
-🐶🐱 Cat and Dog Image Classifier
+-🐶🐱 **Cat and Dog Image Classifier**
 A convolutional neural network (CNN) that classifies images of cats and dogs.
 
-📚 Book Recommendation Engine using KNN
+-📚 **Book Recommendation Engine using KNN**
 A K-Nearest Neighbors model that recommends books based on reader ratings.
 
-💰 Linear Regression Health Costs Calculator
+-💰 **Linear Regression Health Costs Calculator**
 A regression model that predicts healthcare expenses based on demographic data.
 
-💬 Neural Network SMS Text Classifier
+-💬 **Neural Network SMS Text Classifier**
 A neural network that classifies SMS messages as spam or not spam.
 
 ---
 
-🧰 Tools & Libraries
+🧰 **Tools & Libraries**
 
 Python 3
 
@@ -42,7 +45,7 @@ TensorFlow / Keras
 
 ---
 
-📊 Skills Demonstrated
+📊 **Skills Demonstrated**
 
 Data preprocessing and feature engineering
 
@@ -56,24 +59,7 @@ End-to-end ML workflows in Google Colab
 
 ---
 
-This collection of projects is part of the
-FreeCodeCamp Machine Learning with Python Certification
-
-📂 freecodecamp-machine-learning-projects
-
-- rock-paper-scissors.ipynb
-
-- cat-dog-classifier.ipynb
-
-- book-recommender.ipynb
-
-- health-costs.ipynb
-
-- sms-classifier.ipynb
-
----
-
-✅ Results
+✅ **Results**
 
 All five machine learning projects successfully completed
 
@@ -90,6 +76,6 @@ https://www.freecodecamp.org/certification/jones26/machine-learning-with-python-
 
 ---
 
-📖 License
+📖 **License**
 
 This project is open-source under the MIT License.
