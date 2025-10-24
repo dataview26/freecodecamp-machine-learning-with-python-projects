@@ -74,6 +74,12 @@ Mrugesh: around 97.0% win rate
 
 📸 Screenshots
 
+Screenshot-1-code
+
+Screenshot-2-code
+
+Screenshot-3-code&output
+
 ---
 
 🧾 Notes
